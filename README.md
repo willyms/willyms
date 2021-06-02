@@ -1,13 +1,13 @@
-# Fala Pessoa!!!
+# Fala Pessoa, tranquilo?
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" width="350" height="300" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" width="350" height="200" />
 
- ### Meu nome é William Sales
+### Meu nome é William Sales,
 
-<p>Sou um profissional da area da ciência da computação apaixonado por escrever código, resolver problemas, automatizar coisas e construir software.</p>
+- 👨‍💻 &nbsp;Sou Desenvolvedor Front-end e Back-end.
+- 🎓 &nbsp;Atualmente estudando: Python e Data Science.
 
 ### Contato
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/william-sales-089aa965/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](willia.saleslopes@gmail.com)
@@ -29,20 +29,25 @@
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material Design Badge](https://img.shields.io/badge/Material_Design-blue?style=for-the-badge&logo=material%20design&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
- 
- ### DataBase
- 
+### DataBase
  ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  ![Postgre SQL Badge](https://img.shields.io/badge/Postgre_SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
  ![Oracle Badge](https://img.shields.io/badge/Oracle-DD0031?style=for-the-badge&logo=oracle&logoColor=white)
  
-### Outros
+### Utilidades
+  ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia&logoColor=white)
+   
+### DevOps
+  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub Badge](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+  ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
- ![Trello Badge](https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=trello&logoColor=white)
- ![Scrum Badge](https://img.shields.io/badge/Scrum-00000F?style=for-the-badge&logo=scrum&logoColor=white)
- ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+### Ferramentas de Desenvolvimento
+
+  ![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Eclipse Badge](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 
 ----
+![Profile views](https://gpvc.arturio.dev/willyms)
