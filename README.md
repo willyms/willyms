@@ -83,7 +83,7 @@ Eu sempre empurro muito o foco, determinação, energia e conhecimento para real
 
 ###
 
-<img src="https://raw.githubusercontent.com/willyms/willyms/blob/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/willyms/willyms/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
